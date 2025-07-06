@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Institution**: New Horizon College of Engineering, Bengaluru
 - **USN**: 1NH24CS409
 - **GitHub**: [@Naveenkm07](https://github.com/Naveenkm07)
-- **Email**: [Your Email]
+- **Email**: kmnaveenkm01@gmail.com
 
 ---
 
